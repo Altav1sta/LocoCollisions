@@ -1,0 +1,6 @@
+C:\Users\Altav1sta\Documents\GitHub\LocoCollisions\LocoCollisions\bin\Debug\LocoCollisions.exe.config
+C:\Users\Altav1sta\Documents\GitHub\LocoCollisions\LocoCollisions\bin\Debug\LocoCollisions.exe
+C:\Users\Altav1sta\Documents\GitHub\LocoCollisions\LocoCollisions\bin\Debug\LocoCollisions.pdb
+C:\Users\Altav1sta\Documents\GitHub\LocoCollisions\LocoCollisions\obj\Debug\LocoCollisions.csprojResolveAssemblyReference.cache
+C:\Users\Altav1sta\Documents\GitHub\LocoCollisions\LocoCollisions\obj\Debug\LocoCollisions.exe
+C:\Users\Altav1sta\Documents\GitHub\LocoCollisions\LocoCollisions\obj\Debug\LocoCollisions.pdb
